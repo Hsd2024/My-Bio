@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                       | Associated Project         |
 |---------------------------------------------|----------------------------|
-| Skill 1                                     | <a hrref="[https://www.credly.com/users/mohammad-hasib-sidiqi.b3a5d675">Detection Lab</a>|
+| Skill 1                                     | <a hrref="[https://www.credly.com">Detection Lab</a>|
 | Skill 2                                     | <a hrref="https://google.com">Detection Lab</a>|
 | Skill 3                                     | SOC Automation Lab|
 | Skill 4                                     | SOC Automation Lab|
@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://www.credly.com/users/mohammad-hasib-sidiqi.b3a5d675"/>
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
