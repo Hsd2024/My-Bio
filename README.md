@@ -26,9 +26,8 @@ My journey in information technology has led me to develop a passion for cyberse
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-- software ABS
-- SIME
+- Wireshark
+- Splunk SIME
 - Cisco Packet trecer
 
 ## Certifications
