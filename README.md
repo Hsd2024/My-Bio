@@ -1,7 +1,7 @@
 # Hello, I'm Hasib sidiqi,
 
 
-I am cetified Security+ a profound interest in technology and a dedication to solving cyber security problems.
+I am cetified CompTIA SY0-701 Security+ a profound interest in technology and a dedication to solving cyber security problems.
 
 ## Objective
 
@@ -31,7 +31,7 @@ My journey in information technology has led me to develop a passion for cyberse
 - Cisco Packet trecer
 
 ## Certifications
-- CompTIA Security+ SY0-701
+- CompTIA SY0-701 Security+
 
 ## Projects
 - Detection Lab
