@@ -31,7 +31,7 @@ My journey in information technology has led me to develop a passion for cyberse
 - Cisco Packet trecer
 
 ## Certifications
-Networking basics      <a hrref="[https://www.credly.com/badges/af90be85-48b0-4181-925a-d1ceddeff385]
+Networking basics      | <a hrref="[https://www.credly.com/badges/af90be85-48b0-4181-925a-d1ceddeff385]|
 - CompTIA SY0-701 Security+
 
 ## Projects
